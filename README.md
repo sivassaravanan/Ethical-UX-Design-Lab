@@ -3,7 +3,7 @@ A study of ethical UX design principles and their impact on user experience.
 
 # CODTECH UI/UX Internship Task-4
 
-# UI Copywriting Lab
+# Ethical UX Design Lab
 
 Company: CODTECH IT SOLUTIONS
 
